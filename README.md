@@ -6,6 +6,8 @@ An MCP server that provides AI agents with real-time access to curated Web3 jobs
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/kukapay/web3-jobs-mcp)](https://archestra.ai/mcp-catalog/kukapay__web3-jobs-mcp)
+
 
 ## Features
 
