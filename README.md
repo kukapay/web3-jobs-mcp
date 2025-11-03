@@ -6,6 +6,9 @@ An MCP server that provides AI agents with real-time access to curated Web3 jobs
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+<a href="https://glama.ai/mcp/servers/@kukapay/web3-jobs-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/web3-jobs-mcp/badge" alt="web3-jobs-mcp MCP server" />
+</a>
 
 ## Features
 
@@ -135,4 +138,3 @@ Find Web3 jobs for a blockchain developer role in remote. Provide job titles, co
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
