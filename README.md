@@ -21,6 +21,10 @@ An MCP server that provides AI agents with real-time access to curated Web3 jobs
   - Description (plain text, truncated to 100 characters)
 - **Search Prompt**: Generates user-friendly job search queries based on role and optional location.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-web3-jobs-mcp).
+
 ## Prerequisites
 
 - Python 3.10+
